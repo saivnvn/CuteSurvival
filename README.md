@@ -3,15 +3,14 @@
 ## Subtitle: Wizard Survival - Robot Summon
 ### Free iOS Game - App Store - Swift Code 15.6
 
-[Download on the App Store](https://apps.apple.com/app/cute-survival-wizard-robot/id6738106971)
-
+[Download Cute Survival: Wizard & Robot on the App Store](https://apps.apple.com/app/cute-survival-wizard-robot/id6738106971)
 
 ### ▶ Watch the trailer on YouTube:
 🎬 [Cute Survival: Magic Ball - Trailer](https://www.youtube.com/watch?v=ZhRoBSVHpeI)
 
 [![Watch the trailer](https://img.youtube.com/vi/ZhRoBSVHpeI/hqdefault.jpg)](https://www.youtube.com/watch?v=ZhRoBSVHpeI)
 
-
+[Download on the App Store](https://apps.apple.com/app/cute-survival-wizard-robot/id6738106971)
 
 ### ▶ Sample Swift Code - Crow Boss Knock-Up Effect
 
