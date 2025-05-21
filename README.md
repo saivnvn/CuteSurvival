@@ -63,3 +63,18 @@ Defeat the Crow King with the Power of a Robot and Fire Magic!
 ### ▶ Don't wait!
 Download **'Cute Survival: Magic Ball'** and start the battle!
 
+
+# 可爱生存
+## 标题：可爱生存：巫师与机器人
+## 副标题：巫师生存 - 召唤机器人
+### 免费 iOS 游戏 - App Store - Swift 代码 15.6
+
+[在 App Store 下载](https://apps.apple.com/app/cute-survival-wizard-robot/id6738106971)
+
+### ▶ 在 YouTube 上观看预告片：
+🎬 [可爱生存：魔法球 - 预告片](https://www.youtube.com/watch?v=ZhRoBSVHpeI)
+
+[![观看预告片](https://img.youtube.com/vi/ZhRoBSVHpeI/hqdefault.jpg)](https://www.youtube.com/watch?v=ZhRoBSVHpeI)
+
+
+
