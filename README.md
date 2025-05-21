@@ -1,7 +1,7 @@
 # Cute Survival
-## Cute Survival: Wizard &amp; Robot
-## Free iOS Game - App Store - Swift Code 15.6
-Subtitle: Wizard Survival - Robot Summon
+## Title: Cute Survival: Wizard &amp; Robot
+## Subtitle: Wizard Survival - Robot Summon
+### Free iOS Game - App Store - Swift Code 15.6
 
 [Download on the App Store](https://apps.apple.com/app/cute-survival-wizard-robot/id6738106971)
 
