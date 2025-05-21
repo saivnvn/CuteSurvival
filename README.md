@@ -6,6 +6,11 @@
 [Download on the App Store](https://apps.apple.com/app/cute-survival-wizard-robot/id6738106971)
 
 
+### ▶ Watch the trailer on YouTube:
+🎬 [Cute Survival: Magic Ball - Trailer](https://www.youtube.com/watch?v=ZhRoBSVHpeI)
+
+[![Watch the trailer](https://img.youtube.com/vi/ZhRoBSVHpeI/hqdefault.jpg)](https://www.youtube.com/watch?v=ZhRoBSVHpeI)
+
 ## ▶ Cute Survival Magic Game
 
 ### ▶ Features:
