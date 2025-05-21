@@ -1,4 +1,4 @@
-# CuteSurvival
+# Cute Survival
 Cute Survival: Wizard &amp; Robot iOS Game - App Store 
 Subtitle: Wizard Survival - Robot Summon
 
